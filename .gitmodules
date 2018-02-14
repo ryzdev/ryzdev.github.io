@@ -1,0 +1,9 @@
+[submodule "learn/anki-revision"]
+	path = learn/anki-revision
+	url = https://github.com/ryzdev/anki-revision.git
+[submodule "learn/math-app"]
+	path = learn/math-app
+	url = https://github.com/ryzdev/math-app.git
+[submodule "learn/knowdays"]
+	path = learn/knowdays
+	url = https://github.com/ryzdev/knowdays.git
