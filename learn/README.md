@@ -4,9 +4,10 @@ To do:
 * ~~add correct sizing for mobile view~~
 * ~~simplify and unify basic apps js~~
 * ~~split out months of the year from date-calculation~~
-* fix viewport 100% bug
-* properly implement 3 state logic to remove need for location.reload()
-* add mvp russian and japanese with toggling query parameters, & clean data object
+* ~~fix viewport 100% bug~~
+* ~~properly implement 3 state logic to remove need for location.reload()~~
+* ~~add toggling query parameters~~
+* add mvp russian and japanese & clean data object
 * add simple but effective bootstrap styling to index and basic apps
 * restyle math app
 * make japanese more useful
