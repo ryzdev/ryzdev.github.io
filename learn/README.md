@@ -7,7 +7,7 @@ To do:
 * ~~fix viewport 100% bug~~
 * ~~properly implement 3 state logic to remove need for location.reload()~~
 * ~~add toggling query parameters~~
-* add mvp russian and japanese & clean data object
+* ~~add mvp russian and japanese & clean data object~~
 * add simple but effective bootstrap styling to index and basic apps
 * restyle math app
 * make japanese more useful
