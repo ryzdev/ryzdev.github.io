@@ -7,3 +7,6 @@
 [submodule "learn/knowdays"]
 	path = learn/knowdays
 	url = https://github.com/ryzdev/knowdays.git
+[submodule "tools/interval-timer"]
+	path = tools/interval-timer
+	url = https://github.com/ryzdev/interval-timer.git
