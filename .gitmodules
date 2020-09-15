@@ -13,3 +13,6 @@
 [submodule "learn/atomic-habits"]
 	path = learn/atomic-habits
 	url = https://github.com/ryzdev/atomic-habits.git
+[submodule "learn/attached"]
+	path = learn/attached
+	url = https://github.com/ryzdev/attached.git
