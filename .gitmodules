@@ -10,3 +10,6 @@
 [submodule "tools/interval-timer"]
 	path = tools/interval-timer
 	url = https://github.com/ryzdev/interval-timer.git
+[submodule "learn/atomic-habits"]
+	path = learn/atomic-habits
+	url = https://github.com/ryzdev/atomic-habits.git
