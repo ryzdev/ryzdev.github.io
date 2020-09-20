@@ -16,3 +16,6 @@
 [submodule "learn/attached"]
 	path = learn/attached
 	url = https://github.com/ryzdev/attached.git
+[submodule "learn/mindmaps"]
+	path = learn/mindmaps
+	url = https://github.com/ryzdev/mindmaps.git
