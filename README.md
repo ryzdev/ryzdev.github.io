@@ -1,7 +1,10 @@
 Reminder of submodule usage:  
 
+Adding:  
 `git submodule add <url> <path>`
 
-`git submodule update --init # Adding --recursive here will also update the submodule's submodule  if it exists`  
+Pulling submodule for the first time:  
+`git submodule update --init --recursive`  
 
-`git commit -m 'Added new submodule <name> at <path>'` 
+Updating all submodules to latest:  
+`git submodule update --recursive --remote` 
