@@ -1,0 +1,13 @@
+#!/usr/bin/env zsh
+
+set -e
+
+PATH_TO_PROJECT=/Users/ryz/code/ryzdev.github.io
+
+cd "$PATH_TO_PROJECT" || exit
+echo ...pulling latest submodules...
+git submodule update --recursive --remote
+echo ...committing any updates...
+git commit -am 'update submodules and commit (automatically via script)'
+echo ...pushing...
+git push
